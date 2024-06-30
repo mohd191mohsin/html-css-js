@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  letter-spacing: 0.8px;
+  font-weight: 400;
+  font-size: 15px;
+  font-family: "Lato", sans-serif;
+}
+
+section {
+  margin: 0px 20px;
+}
+
+.details h1 {
+  font-family: "Lora", serif;
+  font-weight: 600;
+  color: rgb(13, 146, 135);
+}
+.details h2 {
+  font-family: "Lato", sans-serif;
+  font-weight: 500;
+  font-size: 25px;
+  font-style: normal;
+}
+.details .wrapper {
+  padding-top: 10px;
+  text-align: center;
+}
+.details .wrapper a {
+  margin-left: 10px;
+  text-decoration: none;
+  color: #000;
+}
+.details .wrapper a i {
+  margin-right: 10px;
+  color: rgb(13, 146, 135);
+}
+
+h3 {
+  border-bottom: 2px solid #516160;
+}
+
+.SUMMARY {
+  padding: 5px 0px;
+}
+
+.EXPRIENCE h2 {
+  font-size: 20px;
+  font-weight: 600;
+  color: rgb(13, 146, 135);
+}
+.EXPRIENCE h4 {
+  font-size: 18px;
+  font-weight: 500;
+}
+.EXPRIENCE .icon i {
+  color: rgb(13, 146, 135);
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.SKILLS h5 {
+  color: rgb(13, 146, 135);
+  font-weight: 600;
+}
+.SKILLS h5 i {
+  color: #000;
+  padding-right: 15px;
+}
+
+.EDUCATION h2 {
+  font-size: 20px;
+  color: rgb(13, 146, 135);
+}
+.EDUCATION .college {
+  font-size: 15px;
+}
+.EDUCATION p {
+  padding: 0;
+  margin: 10px;
+}
+.EDUCATION p i {
+  color: rgb(13, 146, 135);
+  padding-right: 10px;
+}
+
+.PROJECTS h2 {
+  color: rgb(13, 146, 135);
+  font-size: 20px;
+  font-weight: 500;
+}/*# sourceMappingURL=style.css.map */
